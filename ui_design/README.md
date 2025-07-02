@@ -37,6 +37,11 @@ A modern chat interface built with Flutter, featuring a clean design, message bu
 
 ## Screenshots
 
-![Chat UI Screenshot](UI.PNG)
+ui_design\UI.PNG
+
+
+## Widget Tree
+
+A clear visualization of the widget structure is included in in the image ui_design\widget tree.PNG
 
 
