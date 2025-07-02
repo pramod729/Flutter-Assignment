@@ -96,7 +96,7 @@ class ChatScreen extends StatelessWidget {
       crossAxisAlignment: CrossAxisAlignment.start,
       children: [
         const CircleAvatar(
-          backgroundImage: NetworkImage('https://randomuser.me/api/portraits/men/57.jpg'), // real image path
+          backgroundImage: NetworkImage('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmkArf9GYdVfdOvINUYU05hCkpIbZP6hyt0cA9GYOSX-rL3t7_QVqMVAg2GCQKo_CUcKjUzedxla9U5jZHDS4lexh6LnkcmTkfUpJZ3arU-Q'), // real image path
           radius: 16,
         ),
         const SizedBox(width: 8),
