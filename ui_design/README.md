@@ -37,6 +37,6 @@ A modern chat interface built with Flutter, featuring a clean design, message bu
 
 ## Screenshots
 
-C:\Users\Lenovo\Documents\Flutter Assignment\ui_design\UI.PNG
+![Chat UI Screenshot](UI.PNG)
 
 
